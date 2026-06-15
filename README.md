@@ -6,7 +6,7 @@ with rolling out-of-sample forecasting evaluated from January 2020 onwards.
 Data sourced from the [Jeff Sackmann open-source ATP dataset](https://github.com/JeffSackmann/tennis_atp).
 
 ## Structure
-'''
+```
 tennis-ranking-model/
 ├── data/
 │   └── atp_results.csv
@@ -27,7 +27,7 @@ tennis-ranking-model/
 │   └── ka_quant_tennis_report.pdf
 └── tests/
     └── tests.py
-'''
+```
 ## Usage
 ```bash
 pip install -r requirements.txt
