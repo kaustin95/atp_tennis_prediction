@@ -8,9 +8,8 @@ Data sourced from the [Jeff Sackmann open-source ATP dataset](https://github.com
 ## Structure
 
 tennis-ranking-model/
-├── README.md
 ├── data/
-│   └── atp_results.csv          # (or .gitignore if too large)
+│   └── atp_results.csv
 ├── scripts/
 │   ├── __init__.py
 │   ├── section_1.py
