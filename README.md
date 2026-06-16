@@ -3,6 +3,8 @@
 Bradley-Terry ranking and prediction models fitted on ATP match data (2014–2024),
 with rolling out-of-sample forecasting evaluated from January 2020 onwards.
 
+The repo represents a tennis moddeling task, that I have altered as part of my portfolio. The report within documentation reflects this task.
+
 Data sourced from the [Jeff Sackmann open-source ATP dataset](https://github.com/JeffSackmann/tennis_atp).
 
 ## Structure
